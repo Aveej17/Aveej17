@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aveej17
-- 👀 I’m interested in ...machinelearning
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...Java Development
+- 🌱 I’m currently learning ...SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jeevaboobathi1718@gmail.com
 
